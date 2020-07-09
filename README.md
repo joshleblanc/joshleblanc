@@ -1,1 +1,3 @@
-### I directly tie my self worth to my contribution graph
+### Check out view component reflex!
+
+https://github.com/joshleblanc/view_component_reflex
